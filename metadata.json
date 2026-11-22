@@ -1,0 +1,6 @@
+{
+  "name": "Remindly",
+  "description": "Offline recurring reminder app for birthdays, anniversaries, bills, medicines, and important dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

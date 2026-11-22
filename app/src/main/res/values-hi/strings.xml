@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Remindly</string>
+    <string name="app_tagline">जो ज़रूरी है, उसे कभी न भूलें</string>
+
+    <!-- Navigation & Actions -->
+    <string name="nav_back">वापस</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="action_add_reminder">रिमाइंडर जोड़ें</string>
+    <string name="action_save">सहेजें</string>
+    <string name="action_update">अपडेट करें</string>
+    <string name="action_delete">हटाएं</string>
+    <string name="action_undo">वापस लाएं</string>
+    <string name="action_pause">रोकें</string>
+    <string name="action_resume">फिर शुरू करें</string>
+    <string name="action_mark_done">पूरा हुआ</string>
+    <string name="action_edit">बदलें</string>
+    <string name="action_clear_search">खोज साफ़ करें</string>
+    <string name="action_close">बंद करें</string>
+
+    <!-- Home Sections -->
+    <string name="section_missed">छूट गए</string>
+    <string name="section_today">आज</string>
+    <string name="section_tomorrow">कल</string>
+    <string name="section_this_week">इस सप्ताह</string>
+    <string name="section_later">बाद में</string>
+    <string name="section_paused">रोके गए</string>
+
+    <!-- Search, Sort, Filter -->
+    <string name="search_placeholder">रिमाइंडर या नोट्स खोजें…</string>
+    <string name="sort_label">क्रम</string>
+    <string name="filter_all">सभी</string>
+
+    <!-- Empty states -->
+    <string name="empty_title">अभी कोई रिमाइंडर नहीं</string>
+    <string name="empty_subtitle">जन्मदिन, बिल, दवाई या खास तारीख सेकंडों में जोड़ने के लिए + दबाएं।</string>
+    <string name="empty_search_title">कोई मिलता रिमाइंडर नहीं</string>
+    <string name="empty_search_subtitle">दूसरा शब्द आज़माएं या श्रेणी फ़िल्टर हटाएं।</string>
+
+    <!-- Categories -->
+    <string name="category_birthday">जन्मदिन</string>
+    <string name="category_anniversary">सालगिरह</string>
+    <string name="category_bill">बिल</string>
+    <string name="category_medicine">दवाई</string>
+    <string name="category_other">अन्य</string>
+
+    <!-- Repeat Rules -->
+    <string name="repeat_none">दोहराव नहीं</string>
+    <string name="repeat_daily">रोज़ाना</string>
+    <string name="repeat_weekly">साप्ताहिक</string>
+    <string name="repeat_monthly">मासिक</string>
+    <string name="repeat_yearly">वार्षिक</string>
+    <string name="repeat_every_n_days">हर N दिन में</string>
+
+    <!-- Form Labels -->
+    <string name="form_new_title">नया रिमाइंडर</string>
+    <string name="form_edit_title">रिमाइंडर बदलें</string>
+    <string name="field_title_label">शीर्षक</string>
+    <string name="field_title_placeholder">जैसे माँ का जन्मदिन, बिजली का बिल</string>
+    <string name="field_note_label">नोट (वैकल्पिक)</string>
+    <string name="field_note_placeholder">गिफ़्ट आइडिया, खाता नंबर, खुराक…</string>
+    <string name="field_category_label">श्रेणी</string>
+    <string name="field_date_label">तारीख (IST)</string>
+    <string name="field_time_label">समय (IST)</string>
+    <string name="field_specific_time_toggle">निश्चित समय चुनें</string>
+    <string name="field_year_known_toggle">जन्म या शुरुआत का साल पता है (उम्र / वर्ष दिखाएं)</string>
+    <string name="field_repeat_label">दोहराव</string>
+    <string name="field_active_toggle">रिमाइंडर सक्रिय है</string>
+
+    <!-- Settings -->
+    <string name="settings_title">सेटिंग्स और डिफ़ॉल्ट</string>
+    <string name="settings_theme_mode">थीम मोड</string>
+    <string name="settings_accent_color">रंग पैलेट</string>
+    <string name="settings_default_time">बिना समय वाले रिमाइंडर का डिफ़ॉल्ट समय</string>
+    <string name="settings_preview_title">लाइव झलक</string>
+    <string name="settings_offline_badge">100% ऑफ़लाइन • सभी तारीखें IST (Asia/Kolkata)</string>
+
+    <!-- Widget -->
+    <string name="widget_description">Remindly से आगामी और छूटे हुए रिमाइंडर (IST)</string>
+    <string name="widget_title">आगामी रिमाइंडर</string>
+    <string name="widget_empty">आगे कोई सक्रिय रिमाइंडर नहीं</string>
+    <string name="widget_add">नया जोड़ें</string>
+</resources>
